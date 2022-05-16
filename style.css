@@ -1,0 +1,54 @@
+body{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.EWTHWfdLsKL5_slSRdkewAHaEK&pid=Api&P=0&w=277&h=155");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.cardStyle{
+    color: white;
+    margin: 0rem 20rem;
+    height: 30rem;
+    padding-bottom: 5rem;
+    
+}
+
+h1{
+   text-align: center;
+   margin-top: 3rem;
+}
+
+#city-name{
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+    width: 20rem;
+    border-radius: 10px;
+    margin-top: 2rem;
+    margin-left: 7rem;
+    font-size: 1.3rem;
+    border: none;
+}
+button{
+    padding: 1rem;
+    width: 7rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    background-color: rgb(196, 243, 204);
+    cursor: pointer;
+}
+
+h3{
+    text-align: center;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+ }
+
+ h4{
+    text-align: center;
+    margin-top: 0.5rem;
+    font-size: 1.3rem;
+ }
+
+.space{
+    margin-left: 2rem;
+}
